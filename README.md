@@ -1,31 +1,22 @@
-# Platform Game Sample Project
-Fork, explore, and mod this game to make it your own.
+# 🌱 **Bloom Quest** - A Fun Adventure Game
 
-###  Attributions
-*If you used any code, ideas, images, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
-- Monster Image: https://www.canva.com/
+**Bloom Quest** is an exciting, fast-paced game where you play as a little seed on a mission to collect waters scattered throughout the map. Avoid the flying bird and collect all 8 waters to win the game!
 
----
+## 🎮 **How to Play**  
+- Use the **arrow keys** to move the player.  
+- Press **ENTER** to start the game.
+- **Collect all 8 waters** to win!  
+- Watch out for the **bird** that might restart your game if it collides with you.
 
-## File Overview
+## 🕹️ **Features**
+- **Simple Controls**: Move with arrow keys and collect waters.
+- **Dynamic Obstacles**: Avoid the bird and navigate through platforms.
+- **Interactive Sound**: Includes sound effects for collecting items and winning the game.
 
-### ← README.md
+## 📌 **Technologies Used**
+- **p5.js** for game development
+- **JavaScript** for game logic
+- **HTML** and **CSS** for the game setup
 
-That's this file. This is the place to tell people more about what your website does and how you built it. 
-
-### ← index.html
-
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
-
-### ← style.css
-
-CSS files add styling rules to your content like changing colors and fonts. 
-
-### ← script.js
-
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
-
-### ← assets
-
-Drag in assets, like images or music, to add them to your project. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
-
+## 📷 **Pictures**
+![image](https://github.com/user-attachments/assets/cd6de39b-212b-43d4-86c5-fdd9495d72f1)
